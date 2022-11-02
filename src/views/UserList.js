@@ -8,7 +8,7 @@ import users from "../data/users"
 export default props => {
 
     function confirmUserDeletion(user) {
-        Alert.alert('Excluir Usuário', 'Tem certeza que deseja excluir este usuário?' [
+        Alert.alert('Excluir Usuário', 'Tem certeza que deseja excluir este usuário?', [
             {
                 text: 'Sim',
                 onPress() {
@@ -25,7 +25,7 @@ export default props => {
         return (
             <>
                 <Button 
-                    onPress={() => props.novegation.navigate('UserForm', user)}
+                    onPress={() => props.navigation.navigate('UserForm', user)}
                     type='clear'
                     icon={<Icon name="edit" size={25} color='orange'/>}
                 />
