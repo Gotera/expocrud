@@ -4,7 +4,6 @@
         <a href="#-tecnologias"> Tecnologias </a>
         |
         <a href="#-tecnologias"> Projeto </a>
-        |
     </p>
     <h2 dir="auto">
     <a id="user-content--tecnologias" aria-hidden="true" href="#-tecnologias"></a> 👨‍💻 Tecnologias  
