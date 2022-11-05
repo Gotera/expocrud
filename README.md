@@ -2,6 +2,7 @@
     <h1 align= "center">ExpoCrud</h1>
     <p align="center" dir="auto">
         <a href="#-tecnologias"> Tecnologias </a>
+        "&nbps;&nbps;&nbps;|&nbps;&nbps;&nbps;"
         <a href="#-tecnologias"> Projeto </a>
     </p>
     <h2 dir="auto">
@@ -17,7 +18,7 @@
     </li>
   </ul>
     <h2 dir="auto">
-    <a id="user-content--projeto" aria-hidden="true" href="#-projeto"></a> 💻 Projeto  
+    <a id="user-content--projeto" class="anchor" aria-hidden="true" href="#-projeto"></a> 💻 Projeto  
     </h2>
   <p dir="auto">O projeto apresenta um cadastro de usuários utilizando o CREATE,DELETE,UPDATE utilizando context-api e useReducer.</p>
 </div>
