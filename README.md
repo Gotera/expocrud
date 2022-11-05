@@ -1,1 +1,1 @@
-<h1 style= {text-align: 'center'}>ExpoCrud</h1>
+<h1 style= {text-align: center;}>ExpoCrud</h1>
