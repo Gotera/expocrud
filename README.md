@@ -20,5 +20,5 @@
     <h2 dir="auto">
     <a id="user-content--projeto" class="anchor" aria-hidden="true" href="#-projeto"></a> 💻 Projeto  
     </h2>
-  <p dir="auto">O projeto apresenta um cadastro de usuários utilizando o CREATE,DELETE,UPDATE utilizando context-api e useReducer.</p>
+  <p dir="auto">O projeto apresenta um cadastro de usuários com CREATE, DELETE, UPDATE utilizando context-api e useReducer.</p>
 </div>
